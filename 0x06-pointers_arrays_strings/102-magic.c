@@ -2,7 +2,7 @@
 
 /**
  * main - entry
- * *Description: Magic
+ * Description: Magic
  * Return: Always 0
  */
 int main(void)
