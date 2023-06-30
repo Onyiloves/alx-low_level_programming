@@ -2,11 +2,10 @@
 
 /**
  * main - entry
- * Description: Magic
- * Return: Alawys 0
-*/
+ * *Description: Magic
+ * Return: Always 0
+ */
 int main(void)
-
 {
 int n;
 int a[5];
