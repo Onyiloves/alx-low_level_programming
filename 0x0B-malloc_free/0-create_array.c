@@ -25,4 +25,4 @@ char *create_array(unsigned int size, char c)
 		cr[i] = c;
 
 	return (cr);
-
+}
