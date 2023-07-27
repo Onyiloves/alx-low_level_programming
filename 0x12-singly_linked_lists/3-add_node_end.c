@@ -38,4 +38,4 @@ temp->next = new;
 }
 
 return (*head);
-
+}
