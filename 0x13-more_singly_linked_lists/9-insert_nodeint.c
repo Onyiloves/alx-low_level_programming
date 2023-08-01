@@ -34,9 +34,7 @@ new = malloc(sizeof(listint_t));
 if (new == NULL)
 return (NULL);
 
-new->n = n;
-
-if (idx == 0)
+{
 {
 new->next = *head;
 *head = new;
@@ -48,3 +46,5 @@ h->next = new;
 }
 
 return (new);
+}
+
